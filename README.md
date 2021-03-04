@@ -1,2 +1,2 @@
 # tugas_algo_smt2
-Tugas pertama Algoritma &amp; Struktur Data
+Kumpulan Tugas Algoritma &amp; Struktur Data
